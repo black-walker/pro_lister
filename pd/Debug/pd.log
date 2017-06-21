@@ -1,0 +1,370 @@
+﻿  stdafx.cpp
+  terminate_monitor_hook.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\terminate_monitor_hook.cpp(59): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\terminate_monitor_hook.cpp(74): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\terminate_monitor_hook.cpp(140): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\terminate_monitor_hook.cpp(146): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\terminate_monitor_hook.cpp(445): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\terminate_monitor_hook.cpp(483): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  simple.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.cpp(18): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  pe_imports.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.h(6): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(16195): note: see previous definition of 'IMAGE_ORDINAL_FLAG64'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(38): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(56): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(109): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(131): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(143): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(180): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(192): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(210): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(214): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(219): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(223): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.cpp(222): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  pe_header.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(44): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(45): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(92): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(272): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(325): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(433): warning C4018: '>=': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(477): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.h(6): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(16195): note: see previous definition of 'IMAGE_ORDINAL_FLAG64'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(196): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(198): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(214): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(216): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(359): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(437): warning C4244: '=': conversion from '__int64' to 'std::size_t', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(472): warning C4244: '=': conversion from '__int64' to 'std::size_t', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(649): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(651): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(653): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(654): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(655): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(656): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(657): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(677): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(682): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(667): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type '__int64'
+  c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(667): note: consider using '%llx' in the format string
+  c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(667): note: consider using '%I64x' in the format string
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(864): warning C4018: '>': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1032): warning C4018: '>': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1179): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1183): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1184): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1197): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1198): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1205): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1206): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1262): warning C4244: 'initializing': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1288): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1293): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1312): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1329): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1395): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1400): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1401): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1414): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1415): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1422): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1423): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1481): warning C4244: 'initializing': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1507): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1512): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1531): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_header.cpp(1548): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+  pe_hash_database.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(44): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(45): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(92): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(272): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(325): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(433): warning C4018: '>=': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(477): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.h(6): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(16195): note: see previous definition of 'IMAGE_ORDINAL_FLAG64'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(145): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(162): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(171): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(178): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(216): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(231): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(234): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(247): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(256): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(262): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: see declaration of 'strerror'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_hash_database.cpp(352): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  pe_exports.cpp
+  pd.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(44): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(45): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(92): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(272): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(325): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(433): warning C4018: '>=': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(477): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.h(6): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(16195): note: see previous definition of 'IMAGE_ORDINAL_FLAG64'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(91): warning C4101: 'mesg': unreferenced local variable
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(385): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(464): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2037): note: see declaration of 'swscanf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(465): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2037): note: see declaration of 'swscanf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(506): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2037): note: see declaration of 'swscanf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(507): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2037): note: see declaration of 'swscanf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(533): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(567): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2037): note: see declaration of 'swscanf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(568): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2037): note: see declaration of 'swscanf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(599): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(617): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(663): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pd.cpp(690): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  module_list.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(44): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(45): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+  hash.cpp
+  export_list.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(127): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(174): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(176): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(177): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\export_list.cpp(245): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  dump_process.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(44): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(45): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(92): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(272): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(325): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(433): warning C4018: '>=': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(477): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.h(6): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(16195): note: see previous definition of 'IMAGE_ORDINAL_FLAG64'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(402): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(444): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(446): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(628): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(646): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(662): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(718): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\dump_process.cpp(720): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  close_watcher.cpp
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\simple.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(44): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\module_list.h(45): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(92): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(272): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(325): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(433): warning C4018: '>=': signed/unsigned mismatch
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(440): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(451): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(477): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\stream_wrapper.h(488): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\gohaan\documents\process-dump-master\process-dump-master\pd\pe_imports.h(6): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(16195): note: see previous definition of 'IMAGE_ORDINAL_FLAG64'
+  Generating Code...
+close_watcher.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  pd.vcxproj -> C:\Users\gohaan\Documents\Process-Dump-master\Process-Dump-master\Debug\pd.exe
+  pd.vcxproj -> C:\Users\gohaan\Documents\Process-Dump-master\Process-Dump-master\Debug\pd.pdb (Full PDB)
